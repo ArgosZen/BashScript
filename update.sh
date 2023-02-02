@@ -1,7 +1,13 @@
 #!/bin/bash
-
-#by ArgosZen
-#Script for update linux system based in ubuntu
+##################################################
+# Purpose: Script for update linux system based in ubuntu
+# Version:1.0
+# Created Date: Tue Jan 02
+# Modified Date:
+# WebSite: 
+# Author: ArgosZen
+##################################################
+# START #
 
 #Update the package index
 sudo apt update
